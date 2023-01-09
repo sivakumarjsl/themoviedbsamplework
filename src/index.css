@@ -1,0 +1,46 @@
+.text_white {
+  color: white;
+  text-align: center;
+}
+
+.bannerBg {
+  background-color: black;
+}
+
+.bannerBg {
+  padding: 25px;
+}
+.footerBg {
+  background-color: rgb(175, 175, 175);
+  padding: 25px;
+  margin-top: 100px;
+}
+
+.tableSection {
+  margin-top: 25px;
+}
+
+.detailViewCard {
+  padding: 40px 200px 40px 200px;
+
+}
+
+.errMsg {
+  color: red;
+}
+
+.backBtn {
+  margin-bottom: 20px;
+}
+
+.searchBox {
+ margin-bottom: 20px !important;
+ width: 35% !important;
+}
+
+@media (max-width: 650px) {
+  .detailViewCard {
+    padding: 0px;
+  }
+}
+
